@@ -1,2 +1,2 @@
 # lab2-
-Readme for lab 2
+ITMD 361
